@@ -1,0 +1,11 @@
+name: otter_json
+version: 0.0.1
+homepage: https://github.com/damoti/otter-json
+description: >
+  JSON OT for otter.
+author: Lex Berezhny <lex@damoti.com>
+dependencies:
+  collection: any
+dev_dependencies:
+  unittest: any
+  otter_fuzzer: any
